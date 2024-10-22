@@ -32,7 +32,7 @@ delay(1000);
 ### عکس مدار
 
 
-![micro and circuit](/media/microprocessor_2.gif)
+![micro and circuit](/pic/microprocessor_2.jpg)
 
 ---
 
