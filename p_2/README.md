@@ -31,7 +31,7 @@ delay(500);
 
 ### عکس مدار
 
-![micro and circuit](/media/microprocessor_3.gif)
+![micro and circuit](/pic/microprocessor_3.jpg)
 
 ---
 
